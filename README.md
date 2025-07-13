@@ -49,10 +49,6 @@
 
 <br clear="both">
 
-### 🐍 Snake Contribution Animation
-<img src="https://raw.githubusercontent.com/Taigasi/Taigasi/output/snake.svg" alt="Snake animation" />
-
-###
 
 ### 👾 My GitHub Contribution Game
 
