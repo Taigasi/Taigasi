@@ -47,7 +47,7 @@
 <br clear="both">
 
 
-### 👾 My GitHub Contribution Game
+### 👾 Game Pac-Man
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Taigasi/Taigasi/output/pacman-contribution-graph-dark.svg">
